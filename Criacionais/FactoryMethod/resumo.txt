@@ -1,0 +1,3 @@
+Fornece uma interface para criar objetos em uma superclasse, mas permite que as subclasses alterem os tipos de objetos que serão criados.
+
+O padrão Factory Method sugere que você substitua chamadas diretas de construção de objetos (usando o operador new) por chamadas para um método fábrica especial. 
