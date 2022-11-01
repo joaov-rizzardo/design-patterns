@@ -1,0 +1,3 @@
+O Builder é um padrão de projeto criacional que permite a você construir objetos complexos passo a passo. 
+
+O padrão Builder sugere que você extraia o código de construção do objeto para fora de sua própria classe e mova ele para objetos separados chamados builders. 
